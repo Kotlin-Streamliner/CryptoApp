@@ -1,4 +1,4 @@
-package com.streamliner.cryptocurrencyapp.ui
+package com.streamliner.cryptocurrencyapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
