@@ -12,7 +12,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 
 @Composable
-fun coinTag(
+fun CoinTag(
     tag: String
 ) {
     Box(modifier = Modifier
